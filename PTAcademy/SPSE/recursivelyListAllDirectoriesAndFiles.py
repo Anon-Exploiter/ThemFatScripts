@@ -1,6 +1,6 @@
 """
 This script will go ahead and list all the 
-directories and files in `/etc/` and store 
+directories and files in `/home/` and store 
 the output in a json block and then will g-
 o ahead and print that in the console
 """
